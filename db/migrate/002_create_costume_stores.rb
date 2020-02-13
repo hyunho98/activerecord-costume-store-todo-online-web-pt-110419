@@ -11,3 +11,4 @@ class CreateCostumeStores < ActiveRecord::Migration[5.2]
       t.string :closing_time
     end
   end
+end
